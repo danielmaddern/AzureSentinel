@@ -1,4 +1,4 @@
-id: 5d2399f9-ea5c-4e67-9435-1fba745f3a39
+id: 5d2399f9-ea5c-4e67-9435-1fba745f3666
 name: TEST Azure storage key enumeration
 description: |
   'Listing of storage keys is an interesting operation in Azure which might expose additional 
